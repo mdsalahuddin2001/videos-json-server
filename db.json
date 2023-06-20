@@ -1,0 +1,36 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "গাবতলী গরুর হাটের চিত্র",
+      "description": "Description 1",
+      "youtube_embeded_link": "https://www.youtube.com/embed/uIALwgezsLo",
+      "hut": "gabtoli",
+      "createdAt": "2023-06-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "বনরুপা গরুর হাটের চিত্র",
+      "description": "Description 1",
+      "youtube_embeded_link": "https://www.youtube.com/embed/zkt968jkbbY",
+      "hut": "bonorupa",
+      "createdAt": "2023-06-01T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "নয়া বাজার গরুর হাটের চিত্র",
+      "description": "Description 1",
+      "youtube_embeded_link": "https://www.youtube.com/embed/I5AU2V4_uA0",
+      "hut": "noyabajar",
+      "createdAt": "2023-06-01T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "আফতাবনগর গরুর হাটের চিত্র",
+      "description": "Description 1",
+      "youtube_embeded_link": "https://www.youtube.com/embed/0RoDYGVcr38",
+      "hut": "aftabnagar",
+      "createdAt": "2023-06-01T00:00:00.000Z"
+    }
+  ]
+}
