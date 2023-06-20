@@ -6,15 +6,18 @@ const videoSchema = new mongoose.Schema(
       required: [true, "Video title  is required."],
       trim: true,
     },
-    hut: {
+    hat_name: {
       type: String,
       required: [true, "Category slug is required."],
-      unique: true,
     },
 
-    youtube_embeded_link: {
+    video_id: {
       type: String,
       required: [true, "Youtube embeded link is required"],
+    },
+    created_date: {
+      type: String,
+      required: true,
     },
   },
   { timestamps: true }
